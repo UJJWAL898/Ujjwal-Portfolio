@@ -10,7 +10,7 @@ body{
 /* HEADER SECTION */
 
 header{
-    width: 100%;
+    width: 1550px;
     height: 5rem;
     display: flex;
     flex-direction: row;
@@ -80,7 +80,6 @@ main {
     position: relative;
 }
 main section{
-    /* display: flex; */
     width: 100%;
 
 }
@@ -278,12 +277,14 @@ footer{
     bottom: 0rem;
     top: 41.5rem;
 }
+
 footer>img{
     width: 6rem;
     position: relative;
     top: 0.9rem;
     left: 5rem;
 }
+
 footer>h3{
     color: #6600cc;
     position: absolute;
@@ -291,21 +292,24 @@ footer>h3{
     left: 2.7rem;
 
 }
+
 footer div:nth-of-type(1){
     height: 2rem;
     width: 20rem;
-    /* background: #b170f1; */
     position: absolute;
     top: 11rem;
     left: 2.5rem;
 
 }
+
 footer div:nth-of-type(1)>img{
     width: 3rem;
 }
+
 footer div:nth-of-type(1)>a{
     text-decoration: none;
 }
+
 footer div:nth-of-type(2):hover{
     color: white;
 }
@@ -318,35 +322,43 @@ footer div:nth-of-type(2){
     height: 5rem;
     color: white;
 }
+
 footer div:nth-of-type(2)>h1{
     margin-top: 1rem;
     color: #6600cc;
 
 }
+
 footer div:nth-of-type(2)>img{
     width: 2rem;
     margin-top: 1rem;
 }
+
+
 footer div:nth-of-type(2)>p{
     position: absolute;
     top: 5rem;
     left: 3rem;
     color: #6600cc;
 }
+
 footer div:nth-of-type(3){
-    position: relative;
+    position: absolute;
     left: 35rem;
-    top: 3rem;
+    top: 9rem;
     color:#6600cc;
 }
+
 footer div:nth-of-type(3):hover{
     color: white;
 }
+
 footer div:nth-of-type(3)>img{
-    position: relative;
+    position: absolute;
     top: -0.3rem;
     width: 2rem;
 }
+
 footer div:nth-of-type(3)>p{
     position: absolute;
     top: -0.1rem;
@@ -359,12 +371,13 @@ footer div:nth-of-type(4){
     left: 60rem;
     width: 20rem;
     height: 4rem;
-    /* background-color: rgb(0, 0, 0); */
     color: #6600cc;
 }
+
 footer div:nth-of-type(4):hover{
     color: white;
 }
+
 footer div:nth-of-type(4)>img{
     width: 2.2rem;
     position: absolute;
@@ -372,6 +385,7 @@ footer div:nth-of-type(4)>img{
     
     
 }
+
 footer div:nth-of-type(4)>pre{
     position: absolute;
     top: 3rem;
@@ -379,7 +393,7 @@ footer div:nth-of-type(4)>pre{
     font-size: 16px;
     
 }
-
+ */
 
 
 
